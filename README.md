@@ -1,8 +1,9 @@
 README.md (Copy–Paste Siap Pakai)
+notes:
+- node version (v24.11.1)
+- npm version (11.6.2)
 
-Berikut README yang cocok untuk project kamu:
-
-♟ Chess Express — Console Chess + Express API + Jest Tests
+Chess Express — Console Chess + Express API + Jest Tests
 
 Project ini adalah aplikasi Chess (Catur) berbasis Node.js, terdiri dari:
 
@@ -14,15 +15,16 @@ Jest Unit Tests untuk memastikan logika bekerja dengan benar
 
 Struktur kode yang bersih & mudah dikembangkan
 
-How to Run
+How to Run:
+
  Install Dependencies
-npm install
+-npm install
 
  Jalankan Console Version
-node src/app.js
+-node src/app.js
 
 Jalankan Express API
-npm start
+-npm start
 
 
 Server akan berjalan di:
@@ -30,7 +32,7 @@ Server akan berjalan di:
 http://localhost:3000
 
 Running Tests (Jest)
-npm test
+-npm test
 
 
 Output sukses:
